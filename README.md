@@ -1,4 +1,4 @@
-# AutomatedMCQChecker---ComputerVision-MachineLearning
+# Automated MCQ Checker / Optical Mark Recognition using ComputerVision & MachineLearning
 
 This is an Optical Mark Recognition software that automatically scores MCQs based on the solution provided (both are provided by hovering your camera over a picture of a sheet)
 
